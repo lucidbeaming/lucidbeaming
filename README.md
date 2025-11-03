@@ -1,4 +1,2 @@
-### [Dev portfolio](https://lucidbeaming.net/)
-
-### [Art site](https://lucidbeaming.com/)
+### [Dev portfolio](https://lucidbeaming.net/professional/index.html)
 
