@@ -1,2 +1,2 @@
-### [Dev portfolio](https://lucidbeaming.net/professional/index.html)
+### [Dev portfolio](https://joshuacurry.dev)
 
