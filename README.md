@@ -13,6 +13,7 @@ Live projects: [Open Call Manager](https://opencallmanager.com) · [Art Review G
 - [Fluidsynth-Webapp](https://github.com/lucidbeaming/Fluidsynth-Webapp): Node web app for controlling FluidSynth over its telnet shell
 - [ZynAddSubFX-WebApp](https://github.com/lucidbeaming/ZynAddSubFX-WebApp): mobile web UI for switching ZynAddSubFX instruments on a Raspberry Pi via OSC
 - [pi-synths](https://github.com/lucidbeaming/pi-synths): scripts for building music machines on Raspberry Pi
+- [sftool](https://github.com/lucidbeaming/sftool): browse and preview SF2 soundfonts in a desktop GUI or terminal UI
 
 #### Media tools
 
