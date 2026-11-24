@@ -29,7 +29,7 @@ Live projects: [Open Call Manager](https://opencallmanager.com) · [Art Review G
 - [generatejsonld](https://github.com/lucidbeaming/generatejsonld): CLI that crawls a site and generates Schema.org JSON-LD with Mistral
 - [alt-tagger](https://github.com/lucidbeaming/alt-tagger): generate and push alt text for Cloudinary images with a vision model
 - [nasa-iod](https://github.com/lucidbeaming/nasa-iod): textbook React 19 example, a fully commented, infinite-scrolling NASA Astronomy Picture of the Day viewer
-- [sprogeny](https://github.com/lucidbeaming/sprogeny): generate new Spotify playlists from existing ones (the original Flask prototype of [sprogeny.com](https://sprogeny.com))
+- [sprogeny](https://github.com/lucidbeaming/sprogeny): combine and shuffle Spotify playlists into new ones, the SvelteKit code behind [sprogeny.com](https://sprogeny.com)
 
 #### Ops
 
