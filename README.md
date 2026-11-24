@@ -9,6 +9,7 @@ Live projects: [Open Call Manager](https://opencallmanager.com) · [Art Review G
 #### Music & audio
 
 - [Camel](https://github.com/lucidbeaming/Camel): Arduino + Mozzi sketch for a keyless drone synthesizer
+- [drum-loop-browser](https://github.com/lucidbeaming/drum-loop-browser): browse, preview, curate and sequence a library of MIDI drum loops
 - [vid2midi](https://github.com/lucidbeaming/vid2midi): generate MIDI files from brightness levels in video
 - [Fluidsynth-Webapp](https://github.com/lucidbeaming/Fluidsynth-Webapp): Node web app for controlling FluidSynth over its telnet shell
 - [ZynAddSubFX-WebApp](https://github.com/lucidbeaming/ZynAddSubFX-WebApp): mobile web UI for switching ZynAddSubFX instruments on a Raspberry Pi via OSC
