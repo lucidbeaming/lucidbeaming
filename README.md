@@ -1,8 +1,8 @@
 ### Joshua Curry
 
-Full stack web developer with a focus on AI, mobile and accessibility. I also make sound, video and interactive art as Lucidbeaming.
+Full stack web developer with a focus on AI, mobile and accessibility.
 
-**[Dev portfolio](https://joshuacurry.dev)** · **[Art](https://lucidbeaming.com)** · **[Photography](https://joshuacurry.com)**
+**[Dev portfolio](https://joshuacurry.dev)**
 
 Live projects: [Open Call Manager](https://opencallmanager.com) · [Art Review Generator](https://artreviewgenerator.com) · [Berlin Art Galleries](https://berlinartgalleries.de) · [Sprogeny](https://sprogeny.com)
 
